@@ -1,7 +1,7 @@
-- 👋 Olá meu nome é Claudia Dums Schmidt
-- 👀 Sou professora do Colégio Estadual Frederico Guilherme Giese
-- 🌱 Leciono as disciplinas de Pensamento Computacional e Física, assim como o curso de Robótica Primeiros Passos
-- 💞️ Minhas turmas são os 1A, 1B e 1C e a Robótica do Ensino Fundamental
+- 👋 Olá meu nome é Claudia Dums Schmidt.
+- 👀 Sou professora do Colégio Estadual Frederico Guilherme Giese.
+- 🌱 Leciono as disciplinas de Pensamento Computacional e Física, assim como o curso de Robótica Primeiros Passos.
+- 💞️ Minhas turmas são os 1A, 1B e 1C e a Robótica do Ensino Fundamental.
 - 📫 Contato: schmidt.claudia@escola.pr.gov.br
 
 
